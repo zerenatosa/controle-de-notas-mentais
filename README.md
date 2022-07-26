@@ -5,3 +5,8 @@ Notas mentais podem ser lembretes para execução de uma determinada tarefa ou u
 2 - Quais são as principais funcionalidades desta aplicação web a ser desenvolvida?
 Listas das notas mentais com prazos de execução, viabildiade, intervenientes, espaço para anotação;
 3 - Qual é o link do repositório no GitHub que será usado para armazenar o código-fonte do projeto?
+
+
+Segue link do projeto no figma
+
+https://www.figma.com/file/b0CsuAwRziRJrB91VSGH9O/Untitled?node-id=8%3A467
