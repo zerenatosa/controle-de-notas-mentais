@@ -30,4 +30,4 @@ https://www.figma.com/file/b0CsuAwRziRJrB91VSGH9O/Untitled?node-id=8%3A467
 - [ ] Apresentar uma lista de dados com a diretiva estrutural ngFor.
 - [ ] Usar a diretiva ngIf
 - [ ] Formatar a apresentação de dados com Pipes.
-- [ ] Build e deploy da aplicação.
+- [ ] Build e deploy da aplicação..
