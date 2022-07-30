@@ -8,7 +8,7 @@ Listas das notas mentais com prazos de execução, viabildiade, intervenientes, 
 3 - Qual é o link do repositório no GitHub que será usado para armazenar o código-fonte do projeto?
 
 
-PROTÓTIPO - SIGA
+PROTÓTIPO - NOTAS MENTAIS
 
 https://www.figma.com/file/b0CsuAwRziRJrB91VSGH9O/Untitled?node-id=8%3A467
 
