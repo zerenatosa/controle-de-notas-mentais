@@ -1,5 +1,6 @@
 # controle-de-notas-mentais
-controle de notas mentais e sua execução;
+# <b>Atividade 08 - Criação do layout com componentes e uso do conceito de data-binding</b>
+
 
 <b>Atividade 08 - Criação do layout com componentes e uso do conceito de data-binding</b>
 
