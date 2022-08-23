@@ -1,0 +1,23 @@
+
+<header>
+  <app-testeira-nota-mental></app-testeira-nota-mental>
+</header>
+
+<main>
+  <app-exibicao-nota-mental [notas]="notas"></app-exibicao-nota-mental>
+</main>
+
+<app-nova-nota-mental (aoGravarNovaNota)="transferirNota($event)" ></app-nova-nota-mental>
+
+<!-- <p>Nome da nota: {{nota?.nomeDaNota}}</p>
+<p>Interveniente da nota: {{nota?.intervenienteDaNota}}</p>
+<p>Escopo da Nota: {{nota?.escopoDaNota}}</p>
+<p>Vencimento da Nota: {{nota?.vencimentoDaNota}}</p>
+<p>Descrição da Nota: {{nota?.descricaoDaNota}}</p> -->
+
+
+<footer>
+  <app-sobre-nota-mental></app-sobre-nota-mental>
+</footer>
+
+
