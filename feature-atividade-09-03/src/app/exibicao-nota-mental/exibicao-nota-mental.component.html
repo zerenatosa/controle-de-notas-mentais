@@ -1,0 +1,43 @@
+
+<div *ngIf="dado01; else listaVazia">
+<h3 class="formulario_titulo">Nome da nota mental</h3>
+<p> Este é o nome de sua nota mental {{dado01}}</p>
+<p> Este é o nome de sua nota mental recebido via @input</p>
+</div>
+<ng-template #listaVazia>
+  <p class="flow-text center card-panel teal #bbdefb blue lighten-4"  >Isto é estranho, mas você está em dia. Não há notas mentais.</p>
+</ng-template>
+
+
+
+<!-- trecho abaixo em implementação -->
+
+<!--
+<table *ngIf="notas.length > 0; else listaVazia" class = "responsive-table highlight">
+
+    <thead>
+    <th>nome da nota</th>
+    <th>interveniente</th>
+    <th>dias aberto</th>
+    <th>vencimento</th>
+    <th>descrição da nota</th>
+    <th>escopo</th>
+    <th>ação</th>
+  </thead>
+  <tbody>
+    <tr *ngFor="let nota of notas">
+      <td>{{dado01}</td>
+      <td>{{nota?.intervenienteDaNota}}</td>
+      <td>Ainda não ajustado</td>
+      <td>{{nota?.vencimentoDaNota}}</td>
+      <td>{{nota?.descricaoDaNota}}</td>
+      <td>{{nota?.escopoDaNota}}</td>
+      <td><a href="#"><i class="material-icons">edit</i></a><a href="#"><i class="material-icons">delete</i></a></td>
+    </tr>
+  </tbody>
+</table>
+<ng-template #listaVazia>
+  <p class="flow-text center card-panel teal #bbdefb blue lighten-4"  >Isto é estranho, mas você está em dia. Não há notas mentais.</p>
+</ng-template>
+
+ -->
