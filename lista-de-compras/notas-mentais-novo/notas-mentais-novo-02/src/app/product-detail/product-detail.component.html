@@ -1,0 +1,30 @@
+<div class="container contact">
+  <h5>notas</h5>
+  <h6>detalhes das notas</h6>
+  <hr />
+  <div class="row">
+    <ul class="collection col s12 offset-m3 m6">
+      <li class="collection-item">
+        <span class="badge left">ID da nota</span>{{ this.transaction.id }}
+      </li>
+      <!-- <li class="collection-item">
+        <span class="badge left">QUANTIDADE</span
+        >{{ this.transaction.value }}
+      </li> -->
+      <li class="collection-item">
+        <span class="badge left">nome da nota</span
+        >{{ this.transaction.produto}}
+      </li>
+      <li class="collection-item">
+        <span class="badge left">data da inclusão da nota</span>
+        {{ this.transaction.date}}
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col s12 m6 offset-m3 center">
+    <a routerLink="/lista" class="flow-text">voltar</a>
+  </div>
+</div>
