@@ -1,5 +1,6 @@
 # controle-de-notas-mentais
 # <b>Atividade 09 - Cadastro de rotas e navegação entre páginas</b>
+# usar o diretório /notas-mentais-ajustado
 
 <b>Mapear componentes à rotas no módulo de rotas.</b><br />
 Consta no módulo app-routin.modulo.ts
