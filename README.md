@@ -1,19 +1,20 @@
-CONTROLE DE NOTAS MENTAIS E SUA REALIZAÇÃO
+# CONTROLE DE NOTAS MENTAIS E SUA REALIZAÇÃO
 
-1 - Qual é o tema da aplicação web referente ao projeto da disciplina?
-A aplicação tem por objetivo organizar as notas mentais do usuário e sua realização ou seu descarte.
-Notas mentais podem ser lembretes para execução de uma determinada tarefa ou uma ideia para execução de um projeto. Cada uma das notas mentais deve ter seu arco concluído para que o usuário saiba se ela foi executada (se for uma tarefa) ou se ela foi descartada (se foi uma ideia de projeto descartada).
-2 - Quais são as principais funcionalidades desta aplicação web a ser desenvolvida?
-Listas das notas mentais com prazos de execução, viabildiade, intervenientes, espaço para anotação;
-3 - Qual é o link do repositório no GitHub que será usado para armazenar o código-fonte do projeto?
+1 - Qual é o tema da aplicação web referente ao projeto da disciplina?<br />
+A aplicação tem por objetivo organizar as notas mentais do usuário e sua realização.<br /><br />
+Notas mentais podem ser lembretes para execução de uma determinada tarefa ou uma ideia para execução de um projeto. Cada uma das notas mentais deve ter seu arco concluído para que o usuário saiba se ela foi executada.<br /><br />
+2 - Quais são as principais funcionalidades desta aplicação web a ser desenvolvida?<br />
+Listas das notas mentais com prazos de execução, intervenientes, descrição, escopo, situação.<br /><br />
+3 - Qual é o link do repositório no GitHub que será usado para armazenar o código-fonte do projeto?<br />
 
 
-PROTÓTIPO - NOTAS MENTAIS
+
+# PROTÓTIPO - NOTAS MENTAIS
 
 https://www.figma.com/file/b0CsuAwRziRJrB91VSGH9O/Untitled?node-id=8%3A467
 
 
-Checklist
+# Checklist
 
 - [x] Criar o repositório no GitHub com a estrutura do Gitflow, ou seja, branches main e develop. <br />
       :arrow_right: link disponível <a href='https://github.com/zerenatosa/controle-de-notas-mentais' target="_blank" >aqui</a> <br /><br />
