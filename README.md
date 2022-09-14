@@ -5,13 +5,13 @@ A aplicação tem por objetivo organizar as notas mentais do usuário e sua real
 Notas mentais podem ser lembretes para execução de uma determinada tarefa ou uma ideia para execução de um projeto. Cada uma das notas mentais deve ter seu arco concluído para que o usuário saiba se ela foi executada.<br /><br />
 2 - Quais são as principais funcionalidades desta aplicação web a ser desenvolvida?<br />
 Listas das notas mentais com prazos de execução, intervenientes, descrição, escopo, situação.<br /><br />
-3 - Qual é o link do repositório no GitHub que será usado para armazenar o código-fonte do projeto?<br />
+3 - Qual é o link do repositório no GitHub que será usado para armazenar o código-fonte do projeto?<br /><br />
 
 
 
 # PROTÓTIPO - NOTAS MENTAIS
 
-https://www.figma.com/file/b0CsuAwRziRJrB91VSGH9O/Untitled?node-id=8%3A467
+https://www.figma.com/file/b0CsuAwRziRJrB91VSGH9O/Untitled?node-id=8%3A467<br /><br />
 
 
 # Checklist
