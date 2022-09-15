@@ -1,0 +1,53 @@
+
+<div
+class="intro green z-depth-1 my-logo-text"
+[ngStyle]="this.getBackgroundImage()"
+>
+<!-- <h1 class="grey-text text-lighten-5 left-align">Notas Mentais!</h1> -->
+<!--<h4 class="green-text text-darken-1">Tornando sua ida ao mercado mais fácil!!!</h4> -->
+
+
+<!-- container -->
+<div class="container about" >
+
+  <!-- painel serviços  -->
+  <div id="painel-servicos" >
+    <h3 class="center-align grey-text text-lighten-5">notas mentais! veja suas opções</h3>
+    <hr />
+    <div class="row">
+      <!-- serviços -->
+      <div class="col s11 m6">
+        <a routerLink="/exibicao-nota-mental">
+          <div class="card col s11">
+            <span class="white-text flow-text"> notas mentais em ser </span>
+          </div>
+        </a>
+      </div>
+      <div class="col s12 m6">
+        <a routerLink="/notas-concluidas">
+          <div class="card col s11">
+            <span class="white-text flow-text"> notas mentais concluidas </span>
+          </div>
+        </a>
+      </div>
+      <div class="col s12 m6">
+        <a routerLink="/nova-nota-mental">
+          <div class="card col s11">
+            <span class="white-text flow-text"> nova nota mental </span>
+          </div>
+        </a>
+      </div>
+      <div class="col s12 m6">
+        <a routerLink="/conteudo-desta-versao">
+          <div class="card col s11">
+            <span class="white-text flow-text"> conteúdo-desta-versão e check-list </span>
+          </div>
+        </a>
+      </div>
+      <!-- serviços -->
+    </div>
+    <!-- fim linha -->
+  </div>
+  <!-- fim painel serviços -->
+</div>
+</div>
