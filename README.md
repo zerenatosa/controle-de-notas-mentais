@@ -16,6 +16,9 @@ https://www.figma.com/file/b0CsuAwRziRJrB91VSGH9O/Untitled?node-id=8%3A467
 ### :five: - link para acesso da aplicação
 https://zerenatosa.github.io/controle-de-notas-mentais/land-page
 
+### :six: - sobre o json server
+pode-se verificar na linha 22 do arquivo "package.json" a dependência "json-server": "^0.17.0".
+para funcionamento correto deve-se acessar via terminal a pasta "src/app/dados" e executar o comando "json-server --watch db.json".
 
 # :bookmark_tabs: exigências gerais
 :ballot_box_with_check: O projeto precisa ser armazenado no repositório do GitHub ou similar e o endereço do repositório ser informado ao professor.<br />
