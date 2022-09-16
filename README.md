@@ -14,6 +14,7 @@ https://github.com/zerenatosa/controle-de-notas-mentais/
 https://www.figma.com/file/b0CsuAwRziRJrB91VSGH9O/Untitled?node-id=8%3A467
 
 ### :five: - link para acesso da aplicação
+https://zerenatosa.github.io/controle-de-notas-mentais/land-page
 
 
 # :bookmark_tabs: exigências gerais
